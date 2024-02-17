@@ -1,0 +1,13 @@
+header.header { /* header.header = Um componente do tipo  Header que tenha a classe Header  */
+    background-color: #fff;
+    padding: 0px 15px;
+    overflow: hidden; /* caso o texto passe dessa area ele não vai dar overflow */
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+
+
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
